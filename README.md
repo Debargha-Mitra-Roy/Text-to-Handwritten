@@ -22,4 +22,8 @@ There are some steps you need to folllow to execute your programme -
 
 DISCLAMER :- Your programme may take some time to execute.
 
+### How to Use :-
+
+https://user-images.githubusercontent.com/86195789/184084408-85614e83-60ea-43ae-a455-2a6dfff9c98a.mp4
+
 Made with by ❤️ & ☕ by ***Debargha Mitra Roy***
